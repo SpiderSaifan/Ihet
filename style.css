@@ -1,12 +1,12 @@
 .trans-con {
-    border: 1px solid black;
+    border: 6px solid #ff6f61;
     padding: 10px;
     margin: 10px;
     border-radius: 8px;
 }
 
 .trans-box {
-    border: 1px solid black;
+    border: 6px solid #daa520;
     padding: 10px;
     margin: 10px;
     border-radius: 8px;
@@ -25,6 +25,8 @@
     height: 100%;
 
     background-color: rgba(0,0,0,0.9);
+    border: border: 6px solid #ff6f61;;
+    border-radius: 8px;
 
     justify-content: center;
     align-items: center;
@@ -52,4 +54,14 @@
 
 #alphabet-img:hover {
     transform: scale(1.03);
+}
+
+.bgaccent {
+    font-family: Urbanist;
+    color: #f5e8d8;
+    background-color: #1c1c1c;
+}
+
+.guide {
+    color: #1c1c1c;
 }
