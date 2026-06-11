@@ -65,3 +65,8 @@
 .guide {
     color: #1c1c1c;
 }
+
+@font-face {
+    font-family: "Ihet";
+    src: url("downloads/Ihet-Regular.ttf");
+}
